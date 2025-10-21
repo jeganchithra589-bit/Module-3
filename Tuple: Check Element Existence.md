@@ -11,7 +11,14 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 Add code here
+```
+
+a=("string","n","sum",4,"danger",8)
+print("n" in a)
+print(8 in a)
+```
 
 ## Output
+<img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/4d488cea-c7cb-4020-934e-4399405c1a3e" />
 
 ## Result
